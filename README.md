@@ -50,12 +50,17 @@ Includes income, expenses, gross profit, net profit margins, etc.
 
 ---
 
-## 📸 Sample Screenshots
+## 📸 Project Screenshots
 
-<img src="./Screenshots/sales_dashboard.png" width="600" alt="Sales Dashboard">
-<img src="./Screenshots/profit_loss_report.png" width="600" alt="Profit & Loss Report">
+| Power Query ETL | Pivot Table | Dashboard Summary |
+|------------------|--------------|-------------------|
+| ![](power%20query.png) | ![](pivot%20table.png) | ![](ss.png) |
 
 ---
+
+| Additional ETL Steps | Summary Report | Financial Analytics |
+|----------------------|----------------|---------------------|
+| ![](power%20query%202%20.png) | ![](sss.png) | ![](power.PNG) |
 
 ## 🧠 Learnings
 
