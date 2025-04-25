@@ -54,13 +54,11 @@ Includes income, expenses, gross profit, net profit margins, etc.
 
 | Power Query ETL | Pivot Table | Dashboard Summary |
 |------------------|--------------|-------------------|
-| ![](power%20query.png) | ![](pivot%20table.png) | ![](ss.png) |
 
 ---
 
 | Additional ETL Steps | Summary Report | Financial Analytics |
 |----------------------|----------------|---------------------|
-| ![](power%20query%202%20.png) | ![](sss.png) | ![](power.PNG) |
 
 ## 🧠 Learnings
 
